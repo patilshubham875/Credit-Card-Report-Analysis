@@ -1,7 +1,4 @@
 Credit Card Analytics Dashboard
-Project Overview
-
-The Credit Card Analytics Dashboard is an end-to-end Data Analytics project that analyzes customer behavior, transaction performance, and credit risk across a bank's credit card portfolio. Using Excel, SQL, and Power BI, raw customer and transaction data is transformed into meaningful business insights that help stakeholders monitor business performance, identify growth opportunities, and manage financial risk effectively.
 
 Business Problem Statement
 
